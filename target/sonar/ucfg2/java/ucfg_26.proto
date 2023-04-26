@@ -1,0 +1,71 @@
+
+8com.example.demo.model.Loan#toString()Ljava/lang/String;
+„C:/Users/Administrator/Documents/microservices-demonstration-main/amrita-adminservice/src/main/java/com/example/demo/model/Loan.java+ +("1*ê
+1,	 ,()|
+z
+,, ,(;
+%0java.lang.String"__id*P
+
+__unknown_file (4*2
+com.example.demo.model.Loan"
+customer_number…
+‚
+,	 ,(;
+%1java.lang.String"__concat*.
+,	 ,()" 
+Loan_details [customer_number=*$
+,, ,(;
+
+%0java.lang.Stringr
+p
+,	 ,(L
+%2java.lang.String"__concat*$
+,	 ,(;
+
+%1java.lang.String*
+,> ,(L
+, branch_id=v
+t
+,O ,(X
+%3java.lang.String"__id*J
+
+__unknown_file (.*,
+com.example.demo.model.Loan"
+	branch_idz
+x
+,	 ,(X
+%4java.lang.String"__concat*$
+,	 ,(L
+
+%2java.lang.String*$
+,O ,(X
+
+%3java.lang.Stringt
+r
+,	 ,(k
+%5java.lang.String"__concat*$
+,	 ,(X
+
+%4java.lang.String*
+,[ ,(k
+, loan_amount=h
+f
+,	 -(
+%6java.lang.String"__concat*$
+,	 ,(k
+
+%5java.lang.String*
+- -(
+""g
+e
+,	 -(
+%7java.lang.String"__concat*$
+,	 -(
+
+%6java.lang.String*
+- -(
+]"$
+, -(
+
+%7java.lang.StringB
+com.example.demo.model.LoanH

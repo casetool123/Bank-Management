@@ -1,0 +1,80 @@
+
+:com.example.demo.model.Branch#toString()Ljava/lang/String;‘
+†C:/Users/Administrator/Documents/microservices-demonstration-main/amrita-adminservice/src/main/java/com/example/demo/model/Branch.java+ +("1*ó
+1,	 ,($x
+v
+,' ,(0
+%0java.lang.String"__id*L
+
+__unknown_file (0*.
+com.example.demo.model.Branch"
+	branch_id
+}
+,	 ,(0
+%1java.lang.String"__concat*)
+,	 ,($
+Branch_master [branch_id=*$
+,' ,(0
+
+%0java.lang.Stringt
+r
+,	 ,(C
+%2java.lang.String"__concat*$
+,	 ,(0
+
+%1java.lang.String*
+,3 ,(C
+, branch_name=z
+x
+,F ,(Q
+%3java.lang.String"__id*N
+
+__unknown_file (2*0
+com.example.demo.model.Branch"
+branch_namez
+x
+,	 ,(Q
+%4java.lang.String"__concat*$
+,	 ,(C
+
+%2java.lang.String*$
+,F ,(Q
+
+%3java.lang.Stringt
+r
+,	 ,(d
+%5java.lang.String"__concat*$
+,	 ,(Q
+
+%4java.lang.String*
+,T ,(d
+, branch_city=z
+x
+,g ,(r
+%6java.lang.String"__id*N
+
+__unknown_file (2*0
+com.example.demo.model.Branch"
+branch_cityz
+x
+,	 ,(r
+%7java.lang.String"__concat*$
+,	 ,(d
+
+%5java.lang.String*$
+,g ,(r
+
+%6java.lang.Stringg
+e
+,	 -(	
+%8java.lang.String"__concat*$
+,	 ,(r
+
+%7java.lang.String*
+- -(	
+]"$
+, -(
+
+
+%8java.lang.StringB!
+com.example.demo.model.BranchH

@@ -1,0 +1,21 @@
+
+Lcom.example.demo.controller.AdminController#getAllBranches()Ljava/util/List;Ÿ
+”C:/Users/Administrator/Documents/microservices-demonstration-main/amrita-adminservice/src/main/java/com/example/demo/controller/AdminController.javaG G(#"1* 
+1H	 H(¡
+ž
+H	 H(,
+%0&com.example.demo.service.BranchService"__id*^
+
+__unknown_file (B*@-
++com.example.demo.controller.AdminController"
+branchServiceÈÅ
+H	 H(&
+%1java.util.List"Fcom.example.demo.service.BranchService#listAllBranch()Ljava/util/List;*J
+
+__unknown_file (.
+,
+%0&com.example.demo.service.BranchService2listAllBranch()""
+H H('
+
+%1java.util.ListB/-
++com.example.demo.controller.AdminControllerH

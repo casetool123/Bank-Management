@@ -1,0 +1,15 @@
+
+Jcom.example.demo.model.Transaction#getTransaction_type()Ljava/lang/String;–
+‹C:/Users/Administrator/Documents/microservices-demonstration-main/amrita-adminservice/src/main/java/com/example/demo/model/Transaction.java8 8(""1*»
+19	 9(…
+‚
+9	 9(
+%0java.lang.String"__id*X
+
+__unknown_file (<*:$
+"com.example.demo.model.Transaction"
+transaction_type"$
+9 9(
+
+%0java.lang.StringB&$
+"com.example.demo.model.TransactionH

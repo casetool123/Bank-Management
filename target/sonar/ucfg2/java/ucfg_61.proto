@@ -1,0 +1,21 @@
+
+Fcom.example.demo.controller.AdminController#loanList()Ljava/util/List;Ÿ
+”C:/Users/Administrator/Documents/microservices-demonstration-main/amrita-adminservice/src/main/java/com/example/demo/controller/AdminController.javaM M("1*
+1N	 N(
+š
+N	 N(*
+%0$com.example.demo.service.LoanService"__id*\
+
+__unknown_file (@*>-
++com.example.demo.controller.AdminController"
+loanService¼¹
+N	 N( 
+%1java.util.List"@com.example.demo.service.LoanService#listLoans()Ljava/util/List;*H
+
+__unknown_file (,
+*
+%0$com.example.demo.service.LoanService2listLoans()""
+N N(!
+
+%1java.util.ListB/-
++com.example.demo.controller.AdminControllerH

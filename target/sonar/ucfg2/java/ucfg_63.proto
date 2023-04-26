@@ -1,0 +1,48 @@
+
+]com.example.demo.service.BranchServiceImpl#deleteBranch(Ljava/lang/String;)Ljava/lang/String;û
+ìC:/Users/Administrator/Documents/microservices-demonstration-main/amrita-adminservice/src/main/java/com/example/demo/service/BranchServiceImpl.java ("startingBlock*é
+startingBlock (,è
+å
+ (
+
+%2"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*:
+
+__unknown_file (
+
+branchIdjava.lang.String\
+Z
+# (+
+branchIdjava.lang.String"__annotation*"
+
+__unknown_file (
+
+%2*
+1*‘
+1 (î
+ë
+ ($
+%0com.example.demo.dao.BranchDao"__id*Y
+
+__unknown_file (=*;,
+*com.example.demo.service.BranchServiceImpl"
+	branchDaoçä
+ ( 
+
+%1void"Rorg.springframework.data.repository.CrudRepository#deleteById(Ljava/lang/Object;)V*B
+
+__unknown_file (&
+$
+%0com.example.demo.dao.BranchDao*:
+
+__unknown_file (
+
+branchIdjava.lang.String2deleteById(Ljava/lang/Object;)"
+ (
+Branhc deleted:(
+ (+
+branchIdjava.lang.StringB.,
+*com.example.demo.service.BranchServiceImplH
